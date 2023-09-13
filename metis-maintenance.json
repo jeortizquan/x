@@ -2,8 +2,8 @@
 	"metis-ui-test": {
 		"maintenanceMessage": "The site <b>metis-test</b> is down and will be back up...<br/><br/><b>tot later!!!!</b><br/><br/>(...hopefully)",
 		"period": {
-			"from": "2023-09-12T14:45:18.713Z",
-			"to": "2023-09-12T14:50:31.691Z"
+			"from": "2023-09-13T08:17:00.523Z"",
+			"to": "2023-09-13T08:22:00.523Z""
 		}
 	},
 	"metis-ui-acceptance": {
@@ -15,8 +15,8 @@
 	"sandbox-ui-test": {
 		"maintenanceMessage": "The site <b>sandbox test</b> is in maintenance",
 		"period": {
-			"from": "2023-09-12T14:45:18.713Z",
-			"to": "2023-09-12T14:50:31.691Z"
+			"from": "2023-09-13T08:17:00.523Z"",
+			"to": "2023-09-13T08:22:00.523Z""
 		}
 	},
 	"sandbox-ui-acceptance": {
@@ -28,8 +28,8 @@
 	"statistics-dashboard-test": {
 		"maintenanceMessage": "The site <b>statistics dashboard test</b> is in maintenance for a while",
 		"period": {
-			"from": "2023-09-12T14:45:18.713Z",
-			"to": "2023-09-12T14:50:31.691Z"
+			"from": "2023-09-13T08:17:00.523Z"",
+			"to": "2023-09-13T08:22:00.523Z""
 		}
 	},
 	"statistics-dashboard-acceptance": {},
